@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "jrb.h": "c",
+        "btree.h": "c"
+    }
+}

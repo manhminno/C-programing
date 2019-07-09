@@ -1,0 +1,7 @@
+6
+1 Bun_bo_hue 30 30000
+2 Com_suon_sot 25 50000
+3 Com_ca_ran 12 40000
+4 My_xao 10 30000
+5 Com_ca_kho_to 40 50000
+6 Pho_tai_lam 20 25000

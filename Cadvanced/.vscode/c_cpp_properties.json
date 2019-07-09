@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "intelliSenseMode": "clang-x64",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "__GNUC__=7",
+                "__stdcall=attribute((stdcall))",
+                "__cdecl=__attribute__((__cdecl__))",
+                "__cplusplus=201703L"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
